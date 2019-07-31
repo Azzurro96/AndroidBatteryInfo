@@ -1,4 +1,4 @@
-# Some ways to get android battery information
+# Three ways to get android battery information
 
 Three different ways to get the battery information on a android device.
 
